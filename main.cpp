@@ -5,7 +5,7 @@
 #include "CommonFunction.h"
 
 using namespace std;
-
+//ok
 void testRemoveElement() {
     vector<int> testCase = { 3, 2, 2, 3 };
     int val = 3; // 要移除的元素值
